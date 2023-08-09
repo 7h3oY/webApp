@@ -1,0 +1,85 @@
+.container-lg {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.imgLogo{
+    background-color: black;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 2px solid #b80bb3;
+    border-style: groove;
+    border-radius: 20px;
+}
+.container-fluid{
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 5px;
+    box-sizing: border-box;
+    height: auto;
+}
+#opIzquierda{
+    background-color:black;
+    max-width: 40%;
+    margin: 0 auto;
+    padding: 20px;
+    max-height: 100%;
+    border: 2px solid #b80bb3;
+    border-style: groove;
+    border-radius: 20px;
+}
+#menuLateral{
+    border: 1px solid gray;
+    border-radius: 10px;
+    border-style: ridge;
+}
+#centerDiv{
+    background-color:black;
+    max-width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    max-height: 100%;
+    border: 2px solid #b80bb3;
+    border-style: groove;
+    border-radius: 20px;
+    color: #2197e5;
+}
+#cardCargar{
+    background-color: black;
+    color: #2197e5;
+}
+.divCargar{
+    border: 2px solid dimgray;
+    border-radius: 5px;
+    border-style: dashed;
+    background-color: transparent;
+}
+#centerDiv h5 {
+    padding: 10px;
+}
+#centerDiv h6 {
+    padding: 10px;
+}
+#textoArchivo{
+    background-color: #2b3035;
+    border: 2px solid whitesmoke;
+    border-radius: 5px;
+}
+#tituloNotif{
+    background-color: #2b3035;
+    border: 2px solid whitesmoke;
+    border-radius: 5px;
+}
+.divFoot{
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 10px;
+    top: 20px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
